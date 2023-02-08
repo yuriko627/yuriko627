@@ -1,9 +1,13 @@
-# yuriko627.github.io
-personal page
+# yuriko627's personal page
+[![Twitter Follow](https://img.shields.io/twitter/follow/yurikonishijima?label=Follow&style=social)](https://twitter.com/yurikonishijima)
+
+### Intro
 - Your name: Yuriko
-- Your school: Columbia 
-- Some background on yourself: 
-- worked on a scaling solution for Ethereum protocol in 2019
-- currently contributing an anonymous reputation protocol on Ethereum using zk-SNARKS 
-One interesting extra, like a badge or an embeddable app
-- i like to lift weights in my free time
+- Your school: Columbia University
+### Some background on yourself: 
+- took a gap year and worked on a scaling solution for Ethereum protocol in 2019
+- came back to school and transfer to Columbia 
+- currently contributing an zk-SNARKS based anonymous reputation protocol on Ethereum called [Unirep](https://github.com/Unirep) 
+
+
+
